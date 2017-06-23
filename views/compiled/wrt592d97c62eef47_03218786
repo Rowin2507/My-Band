@@ -1,0 +1,131 @@
+<?php
+/* Smarty version 3.1.30, created on 2017-05-30 16:03:18
+  from "C:\Users\rowin\Google Drive\SCHOOL\Media College\AJAX-FANS site\views\home.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.30',
+  'unifunc' => 'content_592d97c62e77b4_99343580',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '3b99bdc53fa28cee8e794d38dea07cdde9330598' => 
+    array (
+      0 => 'C:\\Users\\rowin\\Google Drive\\SCHOOL\\Media College\\AJAX-FANS site\\views\\home.tpl',
+      1 => 1496160188,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_592d97c62e77b4_99343580 (Smarty_Internal_Template $_smarty_tpl) {
+?>
+<div class="parallax header-home hero" data-parallax-speed="1">
+  <div class="header-bg-gradient"></div>
+  <div class="hero-content">
+    <h1>AJAX - FANS</h1>
+    <p>This is parallax element one</p>
+  </div>
+</div>
+
+<div class="wrap">Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean
+    collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.
+    <p>http://foodclicks.nl/sites/default/files/nieuws/foto/Amsterdam%20Arena.jpg
+    <p>https://codepen.io/kunalkamble/pen/XXbWwN
+    <p>https://codepen.io/tcmulder/pen/jqgJh
+    <p>https://codepen.io/mprestonise/pen/dPRLWR
+    <p>https://codepen.io/huykon225/pen/WoqXgG
+    <p>https://codepen.io/kwakuakoi/pen/RVrLjx
+    <p>https://codepen.io/bjmiller121/pen/NddvvG
+    <p>https://codepen.io/tristanmason/pen/wgWLmB
+    <p>https://codepen.io/arefin/pen/YpyqvY
+    <p>https://codepen.io/ettrics/pen/WRbGRN
+    <p>https://codepen.io/priosoft/pen/oxJxGV
+    <p>https://codepen.io/avantrogue/pen/FzfDl
+    <p>https://codepen.io/aaronvanston/pen/yNYOXR
+    <p>https://codepen.io/PageOnline/pen/qLHAB
+    <p>https://codepen.io/fixcl/pen/CHgrn
+    <p>$_SESSION['pageviews'] = ($_SESSION['pageviews']) ? $_SESSION['pageviews'] + 1 : 1;
+
+</div>
+
+
+
+
+
+
+
+
+<div class="spacer">
+  <div class="container">
+    <h3>Placeholder as Content?</h3>
+    Mauris condimentum porttitor massa molestie elementum. Proin rhoncus, arcu sit amet molestie dignissim, sapien risus mattis arcu, et fringilla ipsum purus vitae neque. Phasellus ultricies dolor libero, at efficitur nulla tincidunt eget. Donec eget mauris nec libero vestibulum porta. Aenean sit amet turpis vehicula, vestibulum nunc sed, dapibus ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam lobortis tincidunt iaculis. Aenean et odio eros. Aenean fermentum mi ac maximus sollicitudin. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam posuere, est id varius posuere, dolor nisi interdum ante, eget consequat ante mi non ex. Mauris bibendum ac diam vitae efficitur.
+    Maecenas id enim convallis, gravida nisi vitae, pellentesque quam. Curabitur vel scelerisque elit. Curabitur consectetur diam id ullamcorper rutrum. Donec porttitor aliquam arcu, ac dapibus arcu scelerisque id. Nulla eu augue sed nisl hendrerit tristique eu vitae libero. Sed ipsum justo, cursus sit amet lectus nec, convallis rutrum nibh. Aenean eget felis quis mauris egestas placerat ut sit amet leo. Aenean sagittis condimentum lectus. Pellentesque et nunc sapien. Praesent hendrerit dictum augue sed rutrum. Donec molestie eros massa, ac congue nisl mattis non. Cras non rhoncus ante. Curabitur feugiat ac risus non ullamcorper. Morbi rutrum mollis neque eu feugiat. Fusce tempus commodo venenatis. Morbi aliquet nunc at imperdiet cursus.
+    Donec in mollis nisl, vel pharetra sem. Proin faucibus, nisl vel tristique feugiat, dolor sem ullamcorper libero, efficitur varius lacus augue a sem. Curabitur et lobortis erat. Donec ac mollis nulla, eu blandit turpis. Nunc arcu nunc, accumsan id cursus a, gravida ac justo. In hac habitasse platea dictumst. Aenean aliquet velit vel commodo varius. Donec nulla nunc, rutrum ultricies lacinia non, ornare vitae justo. Morbi porttitor dui ac faucibus posuere. Suspendisse ipsum purus, consequat non finibus ut, vestibulum quis nisl.
+  </div>
+</div>
+
+<div class="parallax spelers" data-parallax-speed="0.75">
+  <div class="parallax-content">
+    <h1>HET EERSTE</h1>
+    <p>Het eerste van AJAX 2016-2017</p>
+  </div>
+</div>
+
+<div class="spacer tallSpacer">
+  <div class="container">
+    <h3>Placeholder as Content?</h3>
+    Mauris condimentum porttitor massa molestie elementum. Proin rhoncus, arcu sit amet molestie dignissim, sapien risus mattis arcu, et fringilla ipsum purus vitae neque. Phasellus ultricies dolor libero, at efficitur nulla tincidunt eget. Donec eget mauris nec libero vestibulum porta. Aenean sit amet turpis vehicula, vestibulum nunc sed, dapibus ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam lobortis tincidunt iaculis. Aenean et odio eros. Aenean fermentum mi ac maximus sollicitudin. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam posuere, est id varius posuere, dolor nisi interdum ante, eget consequat ante mi non ex. Mauris bibendum ac diam vitae efficitur.
+    Maecenas id enim convallis, gravida nisi vitae, pellentesque quam. Curabitur vel scelerisque elit. Curabitur consectetur diam id ullamcorper rutrum. Donec porttitor aliquam arcu, ac dapibus arcu scelerisque id. Nulla eu augue sed nisl hendrerit tristique eu vitae libero. Sed ipsum justo, cursus sit amet lectus nec, convallis rutrum nibh. Aenean eget felis quis mauris egestas placerat ut sit amet leo. Aenean sagittis condimentum lectus. Pellentesque et nunc sapien. Praesent hendrerit dictum augue sed rutrum. Donec molestie eros massa, ac congue nisl mattis non. Cras non rhoncus ante. Curabitur feugiat ac risus non ullamcorper. Morbi rutrum mollis neque eu feugiat. Fusce tempus commodo venenatis. Morbi aliquet nunc at imperdiet cursus.</p>
+    Donec in mollis nisl, vel pharetra sem. Proin faucibus, nisl vel tristique feugiat, dolor sem ullamcorper libero, efficitur varius lacus augue a sem. Curabitur et lobortis erat. Donec ac mollis nulla, eu blandit turpis. Nunc arcu nunc, accumsan id cursus a, gravida ac justo. In hac habitasse platea dictumst. Aenean aliquet velit vel commodo varius. Donec nulla nunc, rutrum ultricies lacinia non, ornare vitae justo. Morbi porttitor dui ac faucibus posuere. Suspendisse ipsum purus, consequat non finibus ut, vestibulum quis nisl.
+    Donec eget risus turpis. Curabitur sit amet sodales sem, non pharetra nisl. Aliquam vel purus urna. Proin id aliquet justo. Aenean at consequat lorem. Sed id felis at mauris aliquet efficitur eu vel turpis. Integer dignissim turpis ultrices elit tristique porta. Etiam finibus rhoncus fermentum. Proin vestibulum ante lacus, id consectetur urna vehicula ac. Integer gravida, dui venenatis feugiat iaculis, mauris nulla rhoncus sapien, non mollis velit felis bibendum eros. Donec eu ornare ex. Mauris aliquam mauris et lectus gravida, in imperdiet erat porta. Ut eu pellentesque metus.
+    Praesent vel sem quis magna imperdiet porta eu in justo. Quisque ultrices lacinia erat, vel ultricies risus auctor eget. Duis tempus ultricies magna in volutpat. Aenean auctor posuere risus, vitae lobortis enim tincidunt non. Quisque vitae justo sit amet orci venenatis pharetra. Curabitur vitae lacus a lacus tristique fermentum. Aliquam varius mi libero, ac aliquam velit tempus a. Phasellus mattis ligula nec purus pellentesque ullamcorper. Donec vel commodo elit. Fusce sit amet vulputate elit. Cras rutrum sagittis nibh eget interdum. Sed eu nunc eu massa maximus malesuada ut ac magna. Vestibulum fermentum urna et tincidunt efficitur. Sed at finibus nisi, aliquet sollicitudin urna. In sit amet eros fringilla, dapibus est vel, ultrices lacus.
+  </div>
+</div>
+
+<div class="parallax stadion" data-parallax-speed="0.25">
+  <div class="parallax-content">
+    <h1>JOHAN CRUIJF ARENA</h1>
+    <p>Het stadion waar AJAX speelt</p>
+  </div>
+</div>
+
+<div class="spacer">
+  <div class="container">
+    <h3>Placeholder as Content?</h3>
+    Mauris condimentum porttitor massa molestie elementum. Proin rhoncus, arcu sit amet molestie dignissim, sapien risus mattis arcu, et fringilla ipsum purus vitae neque. Phasellus ultricies dolor libero, at efficitur nulla tincidunt eget. Donec eget mauris nec libero vestibulum porta. Aenean sit amet turpis vehicula, vestibulum nunc sed, dapibus ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam lobortis tincidunt iaculis. Aenean et odio eros. Aenean fermentum mi ac maximus sollicitudin. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam posuere, est id varius posuere, dolor nisi interdum ante, eget consequat ante mi non ex. Mauris bibendum ac diam vitae efficitur.
+    Maecenas id enim convallis, gravida nisi vitae, pellentesque quam. Curabitur vel scelerisque elit. Curabitur consectetur diam id ullamcorper rutrum. Donec porttitor aliquam arcu, ac dapibus arcu scelerisque id. Nulla eu augue sed nisl hendrerit tristique eu vitae libero. Sed ipsum justo, cursus sit amet lectus nec, convallis rutrum nibh. Aenean eget felis quis mauris egestas placerat ut sit amet leo. Aenean sagittis condimentum lectus. Pellentesque et nunc sapien. Praesent hendrerit dictum augue sed rutrum. Donec molestie eros massa, ac congue nisl mattis non. Cras non rhoncus ante. Curabitur feugiat ac risus non ullamcorper. Morbi rutrum mollis neque eu feugiat. Fusce tempus commodo venenatis. Morbi aliquet nunc at imperdiet cursus.
+    Donec in mollis nisl, vel pharetra sem. Proin faucibus, nisl vel tristique feugiat, dolor sem ullamcorper libero, efficitur varius lacus augue a sem. Curabitur et lobortis erat. Donec ac mollis nulla, eu blandit turpis. Nunc arcu nunc, accumsan id cursus a, gravida ac justo. In hac habitasse platea dictumst. Aenean aliquet velit vel commodo varius. Donec nulla nunc, rutrum ultricies lacinia non, ornare vitae justo. Morbi porttitor dui ac faucibus posuere. Suspendisse ipsum purus, consequat non finibus ut, vestibulum quis nisl.
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="tenue-wrap">
+    <div class="tenue-wrap-links">
+      <h1>Het nieuwe AJAX tenue</h1>
+      <p>Het uitshirt voor seizoen 2017-2018 is een ontwerp van traditionele, herkenbare kleuren.
+        Inspiratie voor het donkerblauw en ‘Ajax’-rood komt uit het tenue waarin Ajax zijn laatste grote Europese successen vierde.
+        Meest opvallende details zijn de rode strepen op de schouder en de grafische carbon-print op de voorkant van het shirt.</p>
+        <p></p>
+        <span>
+          Klik hier om het nieuwe tenue te bestellen.<p></p>
+          
+        </span>
+    </div>
+    <div class="tenue-wrap-rechts">
+      <div class="box" id="a-box" data-scroll-speed="4"><img src="./images/tenue-thuis-2017.png"></div>
+      <div class="box" id="r-box" data-scroll-speed="6" style="z-index:-1;"><img src="./images/tenue-uit-2017.png"></div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+</div>
+<?php }
+}
