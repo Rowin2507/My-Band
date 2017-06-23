@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand")
+
+//VARIABELEN
+$standard-font: sans-serif
+$header-font: 'Quicksand', sans-serif
+$color-red: #d21f26
+
+=transition($duration)
+  -webkit-transition: $duration
+  -moz-transition: $duration
+  -ms-transition: $duration
+  -o-transition: $duration
+  transition: $duration
+
+body
+  margin: 0 auto
+  padding: 0
+  font-family: $header-font
+  color: white
+  text-align: center
+.wrap
+  margin: 0 auto
+  height: calc(100vh - 40px)
+  width: 750px
+  padding: 20px
+  background-color: $color-red
+.wrap img
+  width: 300px
+  margin-top: 120px
+  margin-bottom: -75px
+.wrap h1
+  font-size: 150px
+  margin-bottom: -20px
+.wrap p
+  font-family: $header-font
+button.home
+  margin-top: 20px
+  padding: 20px 40px
+  background-color: $color-red
+  font-family: $header-font
+  font-size: 14px
+  font-weight: bold
+  letter-spacing: 3px
+  color: white
+  outline: none
+  border: 2px solid white
+  cursor: pointer
+  +transition(.3s)
+button.home:hover
+  background-color: white
+  color: $color-red
